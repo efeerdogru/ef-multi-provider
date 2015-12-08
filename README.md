@@ -1,3 +1,4 @@
+![](Article.png)
 # Entity Framework Multi DB Support
 An alternate method for multi db provider support for entity framework.
 
